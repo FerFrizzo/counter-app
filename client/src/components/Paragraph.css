@@ -1,0 +1,6 @@
+.paragraph {
+  font-size: medium;
+  text-align: right;
+  font-family:'Courier New', Courier, monospace;
+  color: hsl(233deg 36% 38%);
+}

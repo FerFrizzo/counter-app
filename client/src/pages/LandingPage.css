@@ -1,0 +1,36 @@
+.centeredBox {
+  width: 400px;
+  height: 350px;
+  border-radius: 30px;
+  text-align: center;
+  background-color: hsl(213deg 85% 97%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+}
+
+.login {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 5em;
+  padding-right: 5em;
+  background: hsl(233deg 36% 38%);
+  color: hsl(0deg 0% 100%);;
+  border: none;
+  border-radius: 30px;
+  font-weight: 600;
+  margin-top: 2em;
+  font-family:'Courier New', Courier, monospace
+}
+
+.username {
+  background: hsl(0deg 0% 100%);
+  box-shadow: 0 0 2em hsl(231deg 62% 94%);
+  padding: 1em;
+  flex-direction: column;
+  gap: 1em;
+  border-radius: 20px;
+  font-family:'Courier New', Courier, monospace
+}

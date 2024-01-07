@@ -1,0 +1,20 @@
+.columns{
+  background-color: hsl(233deg 36% 38%);
+  width: -webkit-fill-available;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 14px;
+  padding: 0.5em;
+  font-family:'Courier New', Courier, monospace
+}
+
+.tableHeader{
+  background-color: hsl(233deg 36% 38%);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 14px;
+  padding: 0.5em;
+  font-family:'Courier New', Courier, monospace
+}

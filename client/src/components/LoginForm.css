@@ -1,0 +1,23 @@
+.username {
+  background: hsl(0deg 0% 100%);
+  box-shadow: 0 0 2em hsl(231deg 62% 94%);
+  padding: 1em;
+  flex-direction: column;
+  gap: 1em;
+  border-radius: 20px;
+  font-family:'Courier New', Courier, monospace
+}
+
+.login {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 5em;
+  padding-right: 5em;
+  background: hsl(233deg 36% 38%);
+  color: 'white';
+  border: none;
+  border-radius: 30px;
+  font-weight: 400;
+  margin-top: 2em;
+  font-family:'Courier New', Courier, monospace
+}

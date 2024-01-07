@@ -1,0 +1,15 @@
+.increase {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 5em;
+  padding-right: 5em;
+  background: hsl(233deg 36% 38%);
+  color: 'white';
+  border: none;
+  border-radius: 30px;
+  font-weight: 600;
+  margin-top: 2em;
+  text-align: center;
+  justify-content: center;
+  font-family:'Courier New', Courier, monospace
+}
